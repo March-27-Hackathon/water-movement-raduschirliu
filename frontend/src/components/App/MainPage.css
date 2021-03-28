@@ -1,0 +1,57 @@
+.MainPage {
+  background-color: #afd0d8ff;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.logo-container {
+  text-align: left;
+  align-items: left;
+}
+
+.logo {
+  width: 4%;
+  height: 4%;
+  margin-top: 2%;
+}
+
+.title {
+  text-align: left;
+  float: left;
+  margin-left: 7%;
+}
+
+.title-first-half {
+  color: #3d575bff;
+  text-align: left;
+}
+
+.title-second-half {
+  color: #eaf2f3ff;
+  text-align: left;
+}
+
+.admin-login-button {
+  float: right;
+  color: #eaf2f3ff;
+  background-color: #3d575bff;
+  text-align: center;
+  padding: 1%;
+  border-radius: 20px;
+}
+
+.description {
+  background-color: #eaf2f3ff;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-top: 2%;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.dropzone {
+}
